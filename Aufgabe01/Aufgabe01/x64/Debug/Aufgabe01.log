@@ -1,0 +1,17 @@
+﻿  AffineGeometry.cpp
+  AffineMap.cpp
+  Aufgabe01.cpp
+  quader.cpp
+  quaternion.cpp
+  viewSystem.cpp
+  Generando código...
+Aufgabe01.obj : error LNK2019: símbolo externo __imp___glutInitWithExit sin resolver al que se hace referencia en la función glutInit_ATEXIT_HACK
+Aufgabe01.obj : error LNK2019: símbolo externo __imp_glutInitDisplayMode sin resolver al que se hace referencia en la función main
+Aufgabe01.obj : error LNK2019: símbolo externo __imp_glutMainLoop sin resolver al que se hace referencia en la función main
+Aufgabe01.obj : error LNK2019: símbolo externo __imp___glutCreateWindowWithExit sin resolver al que se hace referencia en la función glutCreateWindow_ATEXIT_HACK
+Aufgabe01.obj : error LNK2019: símbolo externo __imp_glutPostRedisplay sin resolver al que se hace referencia en la función "void __cdecl keyboard(unsigned char,int,int)" (?keyboard@@YAXEHH@Z)
+Aufgabe01.obj : error LNK2019: símbolo externo __imp_glutSwapBuffers sin resolver al que se hace referencia en la función "void __cdecl display(void)" (?display@@YAXXZ)
+Aufgabe01.obj : error LNK2019: símbolo externo __imp_glutDisplayFunc sin resolver al que se hace referencia en la función main
+Aufgabe01.obj : error LNK2019: símbolo externo __imp_glutKeyboardFunc sin resolver al que se hace referencia en la función main
+glut32.lib : warning LNK4272: el tipo de máquina de biblioteca 'x86' está en conflicto con el tipo de máquina de destino 'x64'
+C:\Users\f15ja\OneDrive\Escritorio\universidad\Erasmus\GM\Exercise1\Aufgabe01\x64\Debug\Aufgabe01.exe : fatal error LNK1120: 8 externos sin resolver
